@@ -3,7 +3,7 @@ Question 1: Why is a Version Control System useful when developing software both
 
 Benefits of a Version Control System include;  
 
-Collaboration – The ability to collaborate with others on documents is particularly important as it supports efficiency by allowing multiple individuals to focus and contribute on their own	 part of the document at the same time.
+Collaboration – The ability to collaborate with others on documents is particularly important as it supports efficiency by allowing multiple individuals to focus and contribute on their own	 part of the document at the same time. It also enables individuals and teams to work together regardless of geographical location.
 
 Track, Record and merge changes – This provides those working on documents to keep track of changes made to a document and to clearly see what those changes have been. This is useful to allow an individual to review and approve or reject those changes prior to merging them into the main document. 
 
